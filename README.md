@@ -10,7 +10,7 @@
 Click the button below to fork the SASAKI_MD repository to your GitHub account:
 
     
-  <a href="https://github.com/LordAlphaseven/SASAKI_MD/fork"><img title="SASAKI" src="https://img.shields.io/badge/FORK-SASAKI-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/LordAlphaseven/SASAKI_MD/fork"><img title="SASAKI" src="https://img.shields.io/badge/FORK-JINWOO-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
