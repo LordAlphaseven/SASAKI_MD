@@ -1,5 +1,5 @@
 {
-  "name": "Jinwoo",
+  "name": "sasaki",
   "version": "2.4.0",
   "description": "The best Whatsapp bot",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Malvin King",
+  "author": "",
   "license": "MIT",
   "dependencies": {
         "@whiskeysockets/baileys": "^6.7.16",
