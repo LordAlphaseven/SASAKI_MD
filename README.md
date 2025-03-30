@@ -39,11 +39,11 @@ Click the button below to fork the SASAKI_MD repository to your GitHub account:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-🔑 Get Session ID (WhatsApp Pair Code Login)
+🔑 Get Session ID 
 
 > To deploy on Heroku , generate your session ID from the link below:
 <p align="left">
-  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
+  <a href="https://malvin-md-session-2.onrender.com">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
