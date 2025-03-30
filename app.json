@@ -1,27 +1,27 @@
 {
-  "name": "ᴊɪɴᴡᴏᴏ-ᴍᴅ",
+  "name": "𝐒⟁𝐒𝚫𝐊𝚰✞𝚳𝐃",
   "version": "2.4.0",
-  "description": "Jinwoo, the best WhatsApp Bot",
+  "description": "sasaki, the best WhatsApp Bot",
   "logo": "https://files.catbox.moe/bqs70b.jpg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/kingmalvn/Jinwoo-bot",
+  "repository": "https://github.com/LordAlphaseven/SASAKI_MD",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your Jinwoo session id here; must start with MALVIN-XD~",
+      "description": "Enter your sasaki session id here; must start with SASAKI~XMD",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "ᴊɪɴᴡᴏᴏ-ʙᴏᴛ",
+      "value": "SASAKI_MD",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 2637xxxxxxxx",
+      "description": "Enter your number here, starting with country code E.g 242xxxxxxxx",
       "value": "",
       "required": true
     },
@@ -32,12 +32,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Jin",
+      "value": "SSK",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Jinwoo",
+      "value": "❖𝚸𝚪𝚯𝐅𝚵𝐒𝚯𝚪 𝚫𝚪𝐓𝗛𝐔𝐑✞𝐒⟁𝐒𝚫𝐊I",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -52,7 +52,7 @@
     },
     "TIMEZONE": {
       "description": "Enter your timezone here. Google or don't edit if you don't know!",
-      "value": "Africa/Nairobi",
+      "value": "Africa/Nigeria",
       "required": false
     },
    "GITHUB_TOKEN": {
