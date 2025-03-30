@@ -1,11 +1,34 @@
-# SASAKI-MD
+<p align="center">
+  <h1 align="center">SASAKI_MD</h1>
+</p>
+
+> **`Updated` SASAKI_MD with Latest Features**
+
+<p align="center">
+  <a href="https://github.com/LordAlphaseven"><img title="Developer" src="https://img.shields.io/badge/Author-SASAKI%20TECH-purple.svg?style=for-the-badge&logo=github" /></a>
+</p>
+
+<div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41)
+</div>
+
+ <p align="center"><img src="https://profile-counter.glitch.me/{SasakiStormpark}/count.svg" alt="SasakiTech :: Visitor's Count" /></p>
+
+<p align="center">
+<a href="https://github.com/LordAlphaseven/SASAKI_MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sasakispark&label=VIEWS&style=flat-square&color=purple" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/LordAlphaseven/SASAKI_MD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+---
+
 
 
 ## 🛠️ `SASAKI INSTALATION`
-
-
-
-1. Fork and star this repo first
 
 Click the button below to fork the SASAKI_MD repository to your GitHub account:
 
