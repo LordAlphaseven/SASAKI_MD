@@ -7,7 +7,7 @@
 
 */
 
-//----------------------[ JINWOO-V2 ]----------------------//
+//----------------------[ SASAKI_XMD ]----------------------//
 
 const fs = require('fs')
 const { color } = require('./lib/color')
@@ -17,23 +17,23 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //--------------------[ SESSION ID ]----------------------//
 
 global.SESSION_ID = process.env.SESSION_ID || '' 
-//Enter your Jinwoo session id here; must start with MALVIN-XD~
+//Enter your Jinwoo session id here; must start with SASAKI-XMD~
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ' 
+global.botname = process.env.BOT_NAME || 'SASAKI_SPARK' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '221768649590' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Malvin King' 
+global.ownername = process.env.OWNER_NAME || '❖𝚸𝚪𝚯𝐅𝚵𝐒𝚯𝚪 𝚫𝚪𝐓𝗛𝐔𝐑✞𝐒⟁𝐒𝚫𝐊𝚰' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "JINWOO" 
+global.packname = process.env.STICKER_PACK_NAME || "SASAKI" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
