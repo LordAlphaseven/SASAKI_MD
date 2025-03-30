@@ -1,7 +1,7 @@
 /*
-  project_name : jinwoo bot
+  project_name : 𝐒⟁𝐒𝚫𝐊𝚰✞𝚳𝐃
   Version : 2.4.0
-  Owner : Malvin King 
+  Owner : ❖𝚸𝚪𝚯𝐅𝚵𝐒𝚯𝚪 𝚫𝚪𝐓𝗛𝐔𝐑✞𝐒⟁𝐒𝚫𝐊𝚰 
   Clone if you can😪
 
 
@@ -37,11 +37,11 @@ global.packname = process.env.STICKER_PACK_NAME || "SASAKI"
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "SUNG" 
+global.author = process.env.STICKER_AUTHOR_NAME || "❖𝚸𝚪𝚯𝐅𝚵𝐒𝚯𝚪 𝚫𝚪𝐓𝗛𝐔𝐑✞𝐒⟁𝐒𝚫𝐊𝚰" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
-global.timezones = process.env.TIMEZONE || "Africa/Nairobi" 
+global.timezones = process.env.TIMEZONE || "Africa/Nigeria" 
 //Don't edit this if you don't know!
 
 //----------------[ GITHUB DATABASE ]-----------------//
@@ -54,17 +54,17 @@ global.dbToken = process.env.GITHUB_TOKEN || "";
 
 //-----------------[ CONTEXT LINK ]--------------------//
 
-global.plink = process.env.PLINK || "https://www.youtube.com/@malvintech2"
+global.plink = process.env.PLINK || "https://www.youtube.com/@SASAKICOMPAGNIE"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©Jinwoo-ʙᴏᴛ"
+global.wm = process.env.GL_WM || "> ©𝐒⟁𝐒𝚫𝐊𝚰✞𝚳𝐃"
 
 //---------------------[ REPLIES ]-----------------------//
 
 global.mess = { 
   done: '*Done*', 
-  success: '> © ᴊɪɴᴡᴏᴏ-ᴍᴅ ᴜʟᴛʀᴀ', 
+  success: '> © 𝐒⟁𝐒𝚫𝐊𝚰✞𝚳𝐃 ᴜʟᴛʀᴀ', 
   owner: `*You don't have permission to use this command!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
@@ -86,4 +86,4 @@ fs.watchFile(file, () => {
   require(file)
 })
 
-//----------------------[ MALVIN ]----------------------//
+//----------------------[ 𝐒⟁𝐒𝚫𝐊𝚰 ]----------------------//
