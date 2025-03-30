@@ -5,7 +5,7 @@
 > **`Updated` SASAKI_MD with Latest Features**
 
 <p align="center">
-  <a href="https://github.com/LordAlphaseven"><img title="Developer" src="https://img.shields.io/badge/Author-SASAKI%20TECH-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/LordAlphaseven"><img title="Developer" src="https://img.shields.io/badge/Author-ARTHUR-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LordAlphaseven/SASAKI_MD"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/LordAlphaseven/SASAKI_MD"><img title="Release" src="https://img.shields.io/badge/Release-v1-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
