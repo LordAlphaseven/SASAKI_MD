@@ -9,8 +9,15 @@
 
 Click the button below to fork the SASAKI_MD repository to your GitHub account:
 
-    
-  <a href="https://github.com/LordAlphaseven/SASAKI_MD/fork"><img title="SASAKI" src="https://img.shields.io/badge/FORK-SASAKI-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  **HOW TO DEPLOY**
+
+*1.👇 Star and Fork This Repo*
+
+[![Star and Fork This Repo](https://img.shields.io/static/v1?label=Star%20%26%20Fork%20This%20Repo&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordAlphaseven/SASAKI_MD/fork)  
+
+<br>
+  
+ 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
