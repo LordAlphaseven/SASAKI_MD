@@ -39,7 +39,7 @@ Click the button below to fork the SASAKI_MD repository to your GitHub account:
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-🔑 Get Session ID 
+🔑 Get SASAKI Session ID 
 
 > To deploy on Heroku , generate your session ID from the link below:
 <p align="left">
