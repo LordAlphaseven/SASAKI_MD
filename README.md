@@ -7,11 +7,11 @@
 
 1. Fork and star this repo first
 
-Click the button below to fork the JIN Bot repository to your GitHub account:
+Click the button below to fork the SASAKI_MD repository to your GitHub account:
 
-   <br>
+    <br>
     <p align="left">
-  <a href="https://github.com/LordAlphaseven/SASAKI_MD/fork"><img title="SASAKI_MD" src="https://img.shields.io/badge/FORK-SASAKI_MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/LordAlphaseven/SASAKI_MD/fork"><img title="JINWOO-V2" src="https://img.shields.io/badge/FORK-JINWOO-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
